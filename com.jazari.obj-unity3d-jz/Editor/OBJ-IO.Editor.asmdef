@@ -1,0 +1,9 @@
+{
+  "name": "OBJ-IO.Editor",
+  "references": [
+    "OBJ-IO"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
