@@ -1,0 +1,11 @@
+{
+  "name": "com.jazari.obj-unity3d-JZ",
+  "version": "1.0.0",
+  "displayName": "OBJ-IO",
+  "description": "OBJ import/export utilities for Unity.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Jazari",
+    "url": "https://github.com/JazariO/obj-unity3d-JZ"
+  }
+}
